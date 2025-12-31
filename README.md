@@ -1,159 +1,99 @@
 
 
-⚠️ Peringatan Penting & Penafian Hukum
+⚠️ Important Warning & Legal Disclaimer
 
-> Language / Bahasa: Indonesia | English | Nederlands | Basa Bali | Русский
+This document is provided to give an official explanation regarding the scope, risks, and legal responsibilities associated with the use of this project.
 
+This project carries a high level of risk and must not be used without proper and lawful authorization.
 
-
-
----
-
-Indonesia
-
-Dokumen ini disusun untuk memberikan penjelasan resmi terkait ruang lingkup, risiko, serta tanggung jawab hukum atas penggunaan proyek ini.
-
-Proyek ini berisiko tinggi dan tidak boleh digunakan tanpa dasar hukum yang sah.
-
-Repositori ini disediakan semata-mata untuk tujuan edukasi, penelitian keamanan siber, dan pembelajaran defensif. Setiap bentuk penggunaan di luar konteks tersebut dilarang.
-
-Ringkasan Proyek
-
-Proyek ini mendemonstrasikan konsep Denial of Service / Distributed Denial of Service (DoS/DDoS) untuk meningkatkan pemahaman ancaman dan kesadaran keamanan.
-
-Penggunaan teknik atau kode terhadap situs, server, atau jaringan milik pihak lain tanpa izin tertulis merupakan tindakan melawan hukum.
-
-Risiko dan Dampak
-
-Gangguan layanan (downtime)
-
-Kerusakan sistem atau data permanen
-
-Kerugian finansial dan reputasi
-
-Konsekuensi hukum
-
-
-Aspek Hukum (Indonesia)
-
-Aktivitas menyerang sistem elektronik tanpa hak dapat dikenakan sanksi berdasarkan UU ITE dan peraturan terkait lainnya.
-
-Tanpa izin tertulis dan sah, pengujian dalam bentuk apa pun tidak diperbolehkan.
-
-Tujuan Penggunaan yang Diperbolehkan
-
-Edukasi keamanan siber
-
-Simulasi defensif di lingkungan tertutup dan berizin
-
-Penelitian akademik dengan persetujuan resmi
-
-
-Tanggung Jawab Pengguna
-
-Seluruh risiko dan konsekuensi hukum menjadi tanggung jawab pengguna sepenuhnya.
-
-Lisensi
-
-Hanya untuk tujuan edukasi dan penelitian defensif.
+This repository is provided strictly for educational purposes, cybersecurity research, and defensive learning. Any use outside of these purposes is strictly prohibited.
 
 
 ---
-
-English
-
-This document provides an official explanation of the scope, risks, and legal responsibilities related to this project.
-
-This project carries high risk and must not be used without proper legal authorization.
-
-The repository is provided solely for educational purposes, cybersecurity research, and defensive learning. Any use beyond these purposes is strictly prohibited.
 
 Project Overview
 
-This project demonstrates Denial of Service / Distributed Denial of Service (DoS/DDoS) concepts to improve threat awareness and defensive understanding.
+This project demonstrates the concepts of Denial of Service / Distributed Denial of Service (DoS/DDoS) with the intention of improving threat awareness and defensive understanding.
 
-Using the techniques or code against websites, servers, or networks owned by others without written permission is illegal.
+Using any techniques or code from this project against websites, servers, or networks owned by others without explicit written permission is considered illegal.
+
+
+---
 
 Risks and Impact
 
-Service disruption (downtime)
+Misuse of this project may result in:
+
+Large-scale service disruption (downtime)
 
 Permanent system or data damage
 
-Financial and reputational loss
+Financial losses and reputational harm
 
-Legal consequences
+Legal consequences for the individual involved
 
+
+Prolonged or repeated testing significantly increases the risk of permanent damage to the targeted infrastructure.
+
+
+---
 
 Legal Notice
 
-Unauthorized attacks on electronic systems may result in fines and/or imprisonment under applicable laws.
+Unauthorized interference with electronic systems may lead to criminal penalties under applicable laws, including fines and/or imprisonment, depending on jurisdiction and severity.
 
-Allowed Use
-
-Cybersecurity education
-
-Defensive simulations in authorized environments
-
-Academic research with approval
-
-
-Responsibility
-
-All risks and legal consequences are the sole responsibility of the user.
+Without valid written authorization from the system owner, any form of testing or execution is strictly forbidden.
 
 
 ---
 
-Nederlands
+Permitted Use
 
-Dit document geeft een officiële uitleg over de reikwijdte, risico’s en juridische verantwoordelijkheden van dit project.
+This repository may only be used for:
 
-Dit project brengt hoge risico’s met zich mee en mag niet worden gebruikt zonder geldige wettelijke toestemming.
+Cybersecurity education and learning
 
-De repository is uitsluitend bedoeld voor educatie, cyberbeveiligingsonderzoek en defensieve doeleinden. Elk ander gebruik is verboden.
+Defensive simulations in controlled, authorized environments
 
-Overzicht
-
-Het project demonstreert DoS/DDoS-concepten voor bewustwording en defensieve training.
-
-Gebruik tegen systemen van derden zonder schriftelijke toestemming is onwettig.
+Academic research with proper approval
 
 
----
-
-Basa Bali
-
-Dokumen puniki kaaturang antuk ngajelasang wates, risiko, miwah tanggung jawab hukum ring panganggenan proyek puniki.
-
-Proyek puniki ngemargiang risiko ageng tur tan dados kaanggén tanpa ijin hukum sane sah.
-
-Repositori puniki kaanggén wantah ring edukasi, panaliten keamanan siber, miwah pamelajaran defensif. Panggénan sane lianan tan kaijinin.
-
-Ringkesan
-
-Proyek puniki nyidayang ngajelasang konsep DoS/DDoS antuk ningkatang kaweruhan keamanan.
-
-Panganggenan tanpa ijin nenten kaijinin miwah ngelanggar hukum.
+Use against production systems, public services, or third-party infrastructure is strictly prohibited.
 
 
 ---
 
-Русский
+User Responsibility
 
-Этот документ предоставляет официальное описание области применения, рисков и юридической ответственности проекта.
+By accessing or using this repository, you acknowledge that:
 
-Проект связан с высоким риском и не должен использоваться без законного разрешения.
+All risks and legal consequences are entirely your own responsibility
 
-Репозиторий предназначен исключительно для образовательных целей, исследований в области кибербезопасности и защитного обучения. Любое иное использование запрещено.
+The developers and contributors assume no liability for misuse
 
-Обзор
-
-Проект демонстрирует концепции DoS/DDoS для повышения осведомлённости и защиты.
-
-Использование против систем третьих лиц без письменного разрешения является незаконным.
 
 
 ---
 
-Jika terdapat keraguan terkait legalitas penggunaan, hentikan aktivitas dan konsultasikan dengan pihak berwenang atau profesional keamanan siber.
+Cybersecurity Ethics
+
+Cybersecurity exists to protect systems and users—not to cause harm. The knowledge provided in this project should be used to:
+
+Improve system resilience and preparedness
+
+Educate individuals and organizations
+
+Promote responsible and ethical security practices
+
+
+
+---
+
+License
+
+This project is licensed exclusively for educational and defensive research purposes. Any use beyond this scope constitutes a violation of the license and applicable law.
+
+
+---
+
+If you are uncertain about the legality of your intended use, stop immediately and consult appropriate legal authorities or qualified cybersecurity professionals.
